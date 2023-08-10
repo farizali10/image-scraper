@@ -152,8 +152,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.chromedriver.exe
-.LICENSE.chromedriver
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
