@@ -9,6 +9,7 @@ This project is a simple image scraper that uses the Selenium library to retriev
 To run this project, you need to have the following installed:
 
 - Python 3.8
+- chromedriver (https://chromedriver.chromium.org/downloads)
 
 ### Installation
 
